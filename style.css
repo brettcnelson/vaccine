@@ -26,8 +26,9 @@ a {
 }
 
 ul {
-  padding:0 0 20px 20px;
+  padding:0 0 20px 10px;
   border-top: 1px solid black;
+  list-style:inside;
 }
 .desc {
   font-style: italic;
