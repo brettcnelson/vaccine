@@ -2,7 +2,7 @@ const links = {
   alerts: [
     ['@macovidcaccines.com','https://twitter.com/macovidvaccines','follow and turn on notifications for all tweets'],
     ['@vaccinetime','https://twitter.com/vaccinetime','follow and turn on notifications for all tweets'],
-    ['covidvaccinetexts.com', 'http://www.covidvaccinetexts.com/', 'subscribe to text notifications for new appointments at CVS, Walgreens and Rite-Aid'].
+    ['covidvaccinetexts.com', 'http://www.covidvaccinetexts.com/', 'subscribe to text notifications for new appointments at CVS, Walgreens and Rite-Aid'],
     ['mass.gov', 'https://member.everbridge.net/index/406686158291020/#/signup', 'sign up for updates from the government']
   ],
   search: [
