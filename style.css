@@ -4,17 +4,21 @@
   box-sizing:border-box;
 }
 body {
-  padding:30px 0 10px 0;
+  padding:30px 10px 10px 10px;
   background:rgb(220,220,220);
 }
+h2 {
+  text-align:center;
+  padding-bottom:10px;
+  margin-bottom:10px;
+}
 #con {
-/*   font-weight:bold; */
   margin:auto;
   width:fit-content;
   overflow:scroll;
 }
 .link {
-  padding:2px;
+  padding:5px;
 }
 a {
   font-size:1.5em;
@@ -23,7 +27,8 @@ a {
 
 ul {
   padding:0 0 20px 20px;
+  border-top: 1px solid black;
 }
 .desc {
-/*   font-style: italic; */
+  font-style: italic;
 }
