@@ -2,7 +2,8 @@ const links = {
   alerts: [
     ['@macovidcaccines.com','https://twitter.com/macovidvaccines','follow and turn on notifications for all tweets'],
     ['@vaccinetime','https://twitter.com/vaccinetime','follow and turn on notifications for all tweets'],
-    ['covidvaccinetexts.com', 'http://www.covidvaccinetexts.com/', 'subscribe to text notifications for new appointments at CVS, Walgreens and Rite-Aid']
+    ['covidvaccinetexts.com', 'http://www.covidvaccinetexts.com/', 'subscribe to text notifications for new appointments at CVS, Walgreens and Rite-Aid'].
+    ['mass.gov', 'https://member.everbridge.net/index/406686158291020/#/signup', 'sign up for updates from the government']
   ],
   search: [
     ['vaxfinder.mass.gov', 'https://vaxfinder.mass.gov/?zip_or_city=&vaccines_available=on&q='],
@@ -19,9 +20,10 @@ const links = {
     ['Walgreens', 'https://www.walgreens.com/findcare/vaccination/covid-19/location-screening']
   ],
   general: [
+    ['All Vaccination Sites', 'http://vaccinatema.com/sites'],
+    ['mass.gov Covid Info Page', 'https://www.mass.gov/info-details/covid-19-updates-and-information'],
     ['r/CoronavirusMA', 'https://www.reddit.com/r/CoronavirusMa/'],
-    ['@MassDPH', 'https://twitter.com/MassDPH'],
-    ['all vaccination sites', 'http://vaccinatema.com/sites']
+    ['@MassDPH', 'https://twitter.com/MassDPH']
   ]
 };
 
